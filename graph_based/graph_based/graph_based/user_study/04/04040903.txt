@@ -1,0 +1,49 @@
+     arrow: ..TTT.T.TT.TT.T
+      beam: T.TT.TTTT.T..T.
+  brackets: .T.TTTTT.T.T..T
+cantilever: .TT.TTTTTT...T.
+ capacitor: TTT.T...TT..TTT
+   current: TT.TTT..TT.T.T.
+   dashpot: T.TT..TT.T.TTT.
+    ground: T.TT..T.TT.T.TT
+    moment: .T.TTTT.T.TT..T
+        pi: T.T.T.TTTT..TT.
+    piston: TT.T.T.TTTT..T.
+     pivot: T.T.T...TTTTT.T
+     pound: TTT.TTT..TT..T.
+    pulley: T..TTTT.T.TTT..
+    spring: ..TT..TTTTTT..T
+      sqrt: T.TTT.TTT.TT...
+    square: T.....TTTTTT.TT
+       sum: ..TTTTT...TT.TT
+  throttle: TT.TTT..T.T.TT.
+  triangle: T..TT..TTTTTT..
+   turbine: ..T.TT.TTT.TTT.
+   voltage: TTTT..T.T.TTT..
+
+Accuracy (0/132) = 0.00%, Average time taken per symbol = 0.20ms
+
+Confusion matrix:
+      ar be br ca ca cu da gr mo pi pi pi po pu sp sq sq su th tr tu vo 
+arro  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+beam  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+brac  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+cant  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+capa  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+curr  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+dash  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+grou  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+mome  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+pi    0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+pist  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+pivo  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+poun  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+pull  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+spri  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+sqrt  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+squa  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+sum   0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+thro  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+tria  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+turb  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+volt  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 

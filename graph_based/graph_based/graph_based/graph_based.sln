@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graph_based", "graph_based.vcproj", "{3071791E-5353-487C-A4A6-C54DF523AC3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3071791E-5353-487C-A4A6-C54DF523AC3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3071791E-5353-487C-A4A6-C54DF523AC3F}.Debug|Win32.Build.0 = Debug|Win32
+		{3071791E-5353-487C-A4A6-C54DF523AC3F}.Release|Win32.ActiveCfg = Release|Win32
+		{3071791E-5353-487C-A4A6-C54DF523AC3F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

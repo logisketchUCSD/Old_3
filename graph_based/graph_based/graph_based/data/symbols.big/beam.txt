@@ -1,0 +1,104 @@
+
+# Created on June 21, 2005  16:52:42
+Symbol = {
+	Segment = {
+		start = 139.117 529.106
+		end = 132.723 415.016
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 2.95445
+		big_angle = 3.21839
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 132.998 416.977
+		end = 783.002 417.373
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 1.09566
+		big_angle = 2.04429
+		arc_dir = 0
+		type = 0
+	}
+	Segment = {
+		start = 785.877 421.826
+		end = 795.961 530.819
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 6.07837
+		big_angle = 6.30261
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 792.984 533.951
+		end = 124.906 528.427
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 1.47473
+		big_angle = 1.68854
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 213.78 414.139
+		end = 160.713 357.268
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 2.24233
+		big_angle = 2.54069
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 161.98 357.919
+		end = 282.988 360.539
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 1.52033
+		big_angle = 1.66415
+		arc_dir = 0
+		type = 0
+	}
+	Segment = {
+		start = 282.248 361.316
+		end = 219.004 411.005
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 0.717832
+		big_angle = 1.08786
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 686.041 415.954
+		end = 603.838 344.186
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 2.217
+		big_angle = 2.36172
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 604.973 346.452
+		end = 724.991 347.794
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 1.47646
+		big_angle = 1.68821
+		arc_dir = 0
+		type = 0
+	}
+	Segment = {
+		start = 726.017 348.012
+		end = 678.769 416.46
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 3.54771
+		big_angle = 3.92926
+		arc_dir = 0
+		type = 0
+	}
+}

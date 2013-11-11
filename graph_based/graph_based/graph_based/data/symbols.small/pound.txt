@@ -1,0 +1,44 @@
+
+# Created on June 21, 2005  16:48:37
+Symbol = {
+	Segment = {
+		start = 383.214 450.437
+		end = 442.067 458.51
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 4.69636
+		big_angle = 5.00572
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 385.977 431.572
+		end = 445.042 433.968
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 3.92669
+		big_angle = 5.61636
+		arc_dir = 1
+		type = 0
+	}
+	Segment = {
+		start = 411.307 468.896
+		end = 393.005 414.998
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 5.85528
+		big_angle = 6.06088
+		arc_dir = 0
+		type = 0
+	}
+	Segment = {
+		start = 436.083 473.635
+		end = 415.298 411.9
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 5.79835
+		big_angle = 6.11021
+		arc_dir = 0
+		type = 0
+	}
+}

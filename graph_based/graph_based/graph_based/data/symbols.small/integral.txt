@@ -1,0 +1,14 @@
+
+# Created on June 21, 2005  16:47:34
+Symbol = {
+	Segment = {
+		start = 418.091 509.666
+		end = 407.973 435.054
+		center = -6.27744e+066 -6.27744e+066
+		radius = -6.27744e+066
+		small_angle = 1.3915
+		big_angle = 4.32354
+		arc_dir = 1
+		type = 0
+	}
+}
